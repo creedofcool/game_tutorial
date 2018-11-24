@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GamePlaza-dlg_btn_kfd_n",
+    "texture": "98b32f00-f849-4c3d-bc6b-c09d6c4c9f27",
+    "atlas": "8fd87189-c01c-41f9-a021-2d4c94c420d9",
+    "rect": [
+      781,
+      842,
+      224,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      224,
+      76
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

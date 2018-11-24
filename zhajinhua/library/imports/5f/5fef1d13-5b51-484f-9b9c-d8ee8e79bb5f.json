@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GameCard-card_black_0B",
+    "texture": "8fec15fd-b892-4bfe-83ba-d6ddecd51816",
+    "atlas": "212c8c25-6744-4479-a752-b0752cdff704",
+    "rect": [
+      964,
+      1274,
+      32,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      32,
+      48
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

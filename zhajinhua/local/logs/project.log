@@ -1,0 +1,81 @@
+2018-11-24T15:31:53.474Z - normal: Load ~/.CocosCreator/settings.json
+2018-11-24T15:31:53.478Z - normal: checking language setting...
+2018-11-24T15:31:53.478Z - normal: Language: zh
+2018-11-24T15:31:55.025Z - success: protocol editor-framework registered
+2018-11-24T15:31:55.025Z - success: protocol app registered
+2018-11-24T15:31:55.025Z - success: protocol theme registered
+2018-11-24T15:31:55.025Z - success: protocol packages registered
+2018-11-24T15:31:55.026Z - success: protocol unpack registerred
+2018-11-24T15:31:55.026Z - success: protocol disable-commonjs registerred
+2018-11-24T15:31:55.371Z - normal: connected!
+2018-11-24T15:31:55.382Z - normal: Check project D:\code\doing\games\tutorial_001\zhajinhua
+2018-11-24T15:31:55.390Z - normal: Initializing project D:\code\doing\games\tutorial_001\zhajinhua
+2018-11-24T15:31:55.415Z - normal: Initializing Cocos2d
+2018-11-24T15:31:56.031Z - normal: Initializing Asset Database
+2018-11-24T15:31:56.074Z - success: protocol uuid registerred
+2018-11-24T15:31:56.075Z - success: protocol db registerred
+2018-11-24T15:31:56.075Z - success: protocol thumbnail registerred
+2018-11-24T15:31:56.075Z - normal: Loading editor/builtin packages
+2018-11-24T15:31:56.230Z - success: assets loaded
+2018-11-24T15:31:56.232Z - success: builder loaded
+2018-11-24T15:31:56.234Z - success: cocos-analytics loaded
+2018-11-24T15:31:56.237Z - success: console loaded
+2018-11-24T15:31:56.271Z - success: fb-instant-games loaded
+2018-11-24T15:31:56.272Z - success: google-instant-games loaded
+2018-11-24T15:31:56.277Z - success: hierarchy loaded
+2018-11-24T15:31:56.280Z - success: inspector loaded
+2018-11-24T15:31:56.281Z - success: keystore loaded
+2018-11-24T15:31:56.285Z - success: node-library loaded
+2018-11-24T15:31:56.286Z - success: package-asset loaded
+2018-11-24T15:31:56.287Z - success: preferences loaded
+2018-11-24T15:31:56.289Z - success: project-exporter loaded
+2018-11-24T15:31:56.303Z - success: project-importer loaded
+2018-11-24T15:31:56.305Z - success: project-settings loaded
+2018-11-24T15:31:56.308Z - success: ui-kit loaded
+2018-11-24T15:31:56.311Z - success: scene loaded
+2018-11-24T15:31:56.312Z - success: sprite-editor loaded
+2018-11-24T15:31:56.315Z - success: store loaded
+2018-11-24T15:31:56.318Z - success: timeline loaded
+2018-11-24T15:31:56.318Z - normal: Loading builtin packages
+2018-11-24T15:31:56.322Z - success: asset-db-debugger loaded
+2018-11-24T15:31:56.324Z - success: code-editor loaded
+2018-11-24T15:31:56.325Z - success: color-picker loaded
+2018-11-24T15:31:56.409Z - success: google-play-instant loaded
+2018-11-24T15:31:56.411Z - success: jsb-adapter loaded
+2018-11-24T15:31:56.413Z - success: package-manager loaded
+2018-11-24T15:31:56.507Z - success: qqplay-adapter loaded
+2018-11-24T15:31:56.513Z - success: sdkbox loaded
+2018-11-24T15:31:56.516Z - success: tester loaded
+2018-11-24T15:31:56.518Z - success: ui-grid loaded
+2018-11-24T15:31:56.520Z - success: ui-kit-preview-extra loaded
+2018-11-24T15:31:56.521Z - success: ui-kit-preview loaded
+2018-11-24T15:31:56.522Z - success: ui-tree loaded
+2018-11-24T15:31:56.523Z - success: weapp-adapter loaded
+2018-11-24T15:31:57.573Z - normal: Loading packages
+2018-11-24T15:31:57.580Z - normal: Watching packages
+2018-11-24T15:31:57.886Z - normal: Run Application
+2018-11-24T15:31:58.568Z - success: preview server running at http://localhost:7456
+2018-11-24T15:32:04.113Z - error: Failed to remove menu in path: 开发者/UI Preview/ui-tree (could not be found)
+    at a.remove (D:\code\tools\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2693)
+    at Object.e.remove (D:\code\tools\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4106)
+    at r.series.n (D:\code\tools\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:4460)
+    at D:\code\tools\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (D:\code\tools\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-11-24T15:32:04.114Z - success: ui-tree unloaded
+2018-11-24T15:32:04.116Z - error: Failed to remove menu in path: 开发者/UI Preview/ui-tree (could not be found)
+    at a.remove (D:\code\tools\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2693)
+    at Object.e.remove (D:\code\tools\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4106)
+    at r.series.n (D:\code\tools\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:4460)
+    at D:\code\tools\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (D:\code\tools\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-11-24T15:32:04.117Z - failed: Failed to uncache module main.js: Cannot find it.
+2018-11-24T15:32:04.117Z - success: ui-tree unloaded
+2018-11-24T15:32:04.126Z - failed: Failed to load panel "panel.preview" from "ui-tree", the panelID ui-tree.preview already exists
+2018-11-24T15:32:04.127Z - success: ui-tree loaded
+2018-11-24T15:32:04.128Z - success: ui-tree loaded

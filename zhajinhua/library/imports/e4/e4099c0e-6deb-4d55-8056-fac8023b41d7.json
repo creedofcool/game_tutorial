@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pic_smallhead_02",
+    "texture": "8fec15fd-b892-4bfe-83ba-d6ddecd51816",
+    "atlas": "212c8c25-6744-4479-a752-b0752cdff704",
+    "rect": [
+      885,
+      1095,
+      80,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "version": "1.1.1",
+  "windows": {
+    "main": {
+      "main": true,
+      "url": "app://editor/index.html",
+      "windowType": "dockable",
+      "x": -8,
+      "y": -8,
+      "width": 1552,
+      "height": 880,
+      "layout": {
+        "children": [
+          {
+            "children": [
+              {
+                "active": 0,
+                "children": [
+                  "hierarchy"
+                ],
+                "height": 300.07501220703125,
+                "type": "panel",
+                "width": 284.07501220703125
+              },
+              {
+                "active": 0,
+                "children": [
+                  "assets"
+                ],
+                "height": 451.125,
+                "type": "panel",
+                "width": 284.07501220703125
+              }
+            ],
+            "height": 754.2000122070312,
+            "type": "dock-v",
+            "width": 284.07501220703125
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "active": 0,
+                    "children": [
+                      "scene"
+                    ],
+                    "height": 451.125,
+                    "type": "panel",
+                    "width": 627.1625366210938
+                  },
+                  {
+                    "active": 0,
+                    "children": [
+                      "node-library"
+                    ],
+                    "height": 451.125,
+                    "type": "panel",
+                    "width": 308.0874938964844
+                  }
+                ],
+                "height": 451.125,
+                "type": "dock-h",
+                "width": 938.25
+              },
+              {
+                "active": 0,
+                "children": [
+                  "console",
+                  "timeline"
+                ],
+                "height": 300.07501220703125,
+                "type": "panel",
+                "width": 938.25
+              }
+            ],
+            "height": 754.2000122070312,
+            "type": "dock-v",
+            "width": 938.25
+          },
+          {
+            "active": 0,
+            "children": [
+              "inspector"
+            ],
+            "height": 754.2000122070312,
+            "type": "panel",
+            "width": 304.07501220703125
+          }
+        ],
+        "type": "dock-h"
+      },
+      "panels": [
+        "hierarchy",
+        "node-library",
+        "console",
+        "timeline",
+        "inspector",
+        "assets",
+        "scene"
+      ]
+    }
+  },
+  "panels": {
+    "sprite-editor": {
+      "x": 508,
+      "y": 148,
+      "width": 516,
+      "height": 540
+    },
+    "hierarchy": {
+      "x": 160,
+      "y": 332,
+      "width": 224,
+      "height": 440
+    },
+    "assets": {
+      "x": 0,
+      "y": 192,
+      "width": 276,
+      "height": 448
+    },
+    "preferences": {
+      "x": 468,
+      "y": 148,
+      "width": 602,
+      "height": 567
+    }
+  }
+}
